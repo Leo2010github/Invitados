@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+    color: blueviolet;
+}
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+input{
+    width: 250px;
+    height: 30px;
+}
+button{
+    width: 100px;
+    height: 30px;
+}
